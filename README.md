@@ -121,4 +121,4 @@ README.md
 
 **Aarya Pathrikar**  
 🔗 [LinkedIn](https://linkedin.com)  
-📧 aarya@example.com
+📧 aaryapathrikar@gmail.com
