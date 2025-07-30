@@ -120,5 +120,5 @@ README.md
 ## 👤 Author
 
 **Aarya Pathrikar**  
-🔗linkedin.com/in/aarya-pathrikar-265073295 
+🔗 linkedin.com/in/aarya-pathrikar-265073295 
 📧 aaryapathrikar@gmail.com
